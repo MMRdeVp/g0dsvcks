@@ -1,5 +1,1 @@
-👨‍💻 Miguel, estudiante de DAM superior y apasionado del desarrollo de software.
-🎮 Amante de los videojuegos y su tecnología subyacente.
-🔍 Siempre en busca de nuevos conocimientos y desafíos.
-💻 Disfruto especialmente del desarrollo de código y la resolución de problemas.
-🌱 Comprometido con el aprendizaje continuo y la comunidad de desarrolladores.
+Hola, soy Miguel, tengo 21 años y soy un estudiante de DAM superior con mucho interés por el desarrollo de software. Me gustaría seguir aprendiendo para expandir mis conocimientos, poder ayudar a otros y algún montar una empresa a partir de un software útil y creativo.
